@@ -6,7 +6,8 @@
 ###  Sobre mi
 
 - 👨‍💻 Profesional con una sólida formación científica y práctica en computación, informática y gestión.
-- 📚 Con una mentalidad enfocada en la disciplina y la dedicación, me esfuerzo por aprender algo nuevo cada día.
+- 📚 Conocimientos y experiencia en diversas tecnologías y herramientas. 
+- 🧠 Con una mentalidad enfocada en la disciplina y la dedicación, busco aprender algo nuevo cada día.
 - 🚀 Siempre estoy abierto a recibir retroalimentación y enfrentar nuevos desafíos.
 
 ### ⚙️ &nbsp;GitHub Analytics
